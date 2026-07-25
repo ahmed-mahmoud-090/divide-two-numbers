@@ -10,18 +10,13 @@ A simple web application built with **HTML**, **CSS**, and **JavaScript** that d
 - ✅ Clean and responsive user interface
 - ✅ Built with Vanilla JavaScript (No libraries)
 
-## 📸 Screenshot
-
-![Application Screenshot](screenshot.png)
-
-> Replace `screenshot.png` with your project screenshot or use a GIF.
 
 ## 🚀 Demo
 
 If you create a GIF of the application:
 
 ```md
-![Demo](demo.gif)
+https://github.com/ahmed-mahmoud-090/divide-two-numbers/blob/main/Divide2Nums.gif
 ```
 
 ## 📂 Project Structure
@@ -31,7 +26,7 @@ divide-two-numbers/
 │── index.html
 │── style.css
 │── script.js
-│── screenshot.png
+│── Divide2Nums.gif
 └── README.md
 ```
 
@@ -60,15 +55,5 @@ git clone https://github.com/your-username/divide-two-numbers.git
 
 Open `index.html` in your browser.
 
-## 🎯 Future Improvements
 
-- Add Addition
-- Add Subtraction
-- Add Multiplication
-- Improve error messages
-- Support decimal precision
-- Add keyboard support
 
-## 👨‍💻 Author
-
-Created by **Your Name**
