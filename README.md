@@ -16,7 +16,7 @@ A simple web application built with **HTML**, **CSS**, and **JavaScript** that d
 If you create a GIF of the application:
 
 ```md
-![Demo](Divide2Nums.gif)
+[Demo](Divide2Nums.gif)
 ```
 
 ## 📂 Project Structure
