@@ -16,7 +16,7 @@ A simple web application built with **HTML**, **CSS**, and **JavaScript** that d
 If you create a GIF of the application:
 
 ```md
-![Demo](https://github.com/ahmed-mahmoud-090/divide-two-numbers/blob/main/Divide2Nums.gif)
+![Demo](Divide2Nums.gif)
 ```
 
 ## 📂 Project Structure
