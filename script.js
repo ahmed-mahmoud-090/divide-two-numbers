@@ -6,6 +6,10 @@ let butCalc = document.getElementById("butCalc");
 butCalc.onclick = function () {
 
     function divided(num1, num2) {
+        if(num2==0){
+            alert("you can't divided by zero");
+            return "unknown";
+        }
         return num1 / num2;
     }
 
@@ -14,5 +18,8 @@ butCalc.onclick = function () {
         Number(secondnum.value)
     );
 
-    result.textContent = dividedAnsw;
+    if(dividedAnsw !="unknown"){
+        result.textContent=dividedAnsw;
+    }
+    
 };
